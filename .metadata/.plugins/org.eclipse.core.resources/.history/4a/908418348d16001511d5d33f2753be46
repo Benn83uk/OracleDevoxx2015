@@ -1,0 +1,16 @@
+package com.oracle.challenge;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class BoxSolverTest {
+
+	@Test
+	public void test() {
+		String firstProblem = "";
+		String solution = BoxSolver.solve(firstProblem);
+		
+	}
+
+}
